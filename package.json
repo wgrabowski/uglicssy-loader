@@ -1,0 +1,23 @@
+{
+  "name": "uglicssy-loader",
+  "version": "0.0.0",
+  "description": "Webpack loader that minifies CSS class names using uglicssy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgrabowski/uglicssy-loader.git"
+  },
+  "keywords": [
+    "uglicssy",
+    "minify"
+  ],
+  "author": "Wojciech Grabowski <wojtek@wojciech-grabowski.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wgrabowski/uglicssy-loader/issues"
+  },
+  "homepage": "https://github.com/wgrabowski/uglicssy-loader#readme"
+}
